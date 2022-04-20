@@ -103,7 +103,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://172.31.18.29:8081/repository/ebay-bts-snapshot/</url>
+	      <url>http:http://35.88.213.83:8081/repository/Declartive-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
